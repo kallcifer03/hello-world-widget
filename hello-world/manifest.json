@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "label": "Hello World",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Renato",
+  "description": "Meu primeiro widget no ArcGIS Experience Builder",
+  "defaultSize": {
+    "width": 300,
+    "height": 100
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
